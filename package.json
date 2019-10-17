@@ -1,0 +1,10 @@
+{
+  "name": "Git_e_GitHub",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rafaelnct <r_nct@hotmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
